@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="homework">
+      <UniqueIdentifier>{5647320b-8ec6-467e-9827-cce1087699ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson">
+      <UniqueIdentifier>{483c7947-2431-454c-a02d-ab54de8f76d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\01. 신규프로젝트 생성 + 프로그래밍">
+      <UniqueIdentifier>{24f9f6f8-e867-4cd3-acb3-eb57f0f7ed54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\02. 자료형+변수_난수%28c++↓%29">
+      <UniqueIdentifier>{ca7cbfd3-7ea7-4d67-9a49-99ce12910fce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\03. 연산자+반복문">
+      <UniqueIdentifier>{48578ae8-f4ba-4424-a79f-3e539f7b0eff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\04. 조건문">
+      <UniqueIdentifier>{a0e49030-d903-4652-af4e-dea2c4abb25b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\04. 조건문\05. 함수+변상수+ 전처리기">
+      <UniqueIdentifier>{53ee4980-3693-47b4-beab-8a1632f6d3c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hw.B">
+      <UniqueIdentifier>{678cada7-eee8-45dc-928d-1a563387b735}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="사용자정의자료형+ 4대문자열">
+      <UniqueIdentifier>{192850d3-4736-49f9-b603-c431713191cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\06. 배열 +셔플 + 난수">
+      <UniqueIdentifier>{fd1dbdd3-ae7e-4fbe-83f8-f4353a70eaa3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\07. 문자열+ 삼항연산자">
+      <UniqueIdentifier>{fe445c45-74fb-4f7f-9f31-232ae3c90f5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lesson\09. 포인터">
+      <UniqueIdentifier>{2c8d6a4a-830e-4254-9bc5-071baa7526a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="10. 클래스">
+      <UniqueIdentifier>{d49056ad-8f06-4235-84e9-10fa54e0e29c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11. 접근자,설정자">
+      <UniqueIdentifier>{087ad6d4-8fce-4043-815c-1d9c2a4ef16a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11._1 상속">
+      <UniqueIdentifier>{14ce6cb5-ba9b-482f-88c7-dfc57417ee49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="13. STL 백터">
+      <UniqueIdentifier>{98dbb30e-0b8d-41af-a4e5-6f3993791efd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="15.STL.map">
+      <UniqueIdentifier>{3947c1bd-8f8a-4931-b2a4-4851f2de22ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="16. 템플릿">
+      <UniqueIdentifier>{ae35a58b-e757-4a7c-bd7c-ae84e25466df}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="homework list.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="wa!.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="amus.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="Example.cpp">
+      <Filter>lesson\01. 신규프로젝트 생성 + 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_02.cpp">
+      <Filter>lesson\02. 자료형+변수_난수%28c++↓%29</Filter>
+    </ClCompile>
+    <ClCompile Include="wp.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="wph1.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="wph2.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="random.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_03.cpp">
+      <Filter>lesson\03. 연산자+반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="number.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="srp.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_06.cpp">
+      <Filter>lesson\04. 조건문\05. 함수+변상수+ 전처리기</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>lesson\02. 자료형+변수_난수%28c++↓%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_10.cpp">
+      <Filter>lesson\06. 배열 +셔플 + 난수</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_07.cpp">
+      <Filter>lesson\04. 조건문\05. 함수+변상수+ 전처리기</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_08.cpp">
+      <Filter>lesson\04. 조건문\05. 함수+변상수+ 전처리기</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_09.cpp">
+      <Filter>lesson\04. 조건문\05. 함수+변상수+ 전처리기</Filter>
+    </ClCompile>
+    <ClCompile Include="Example 05.cpp">
+      <Filter>lesson\04. 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="Example.04.cpp">
+      <Filter>lesson\04. 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="main_10.cpp">
+      <Filter>lesson\06. 배열 +셔플 + 난수</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_11.cpp">
+      <Filter>lesson\06. 배열 +셔플 + 난수</Filter>
+    </ClCompile>
+    <ClCompile Include="main_12.cpp" />
+    <ClCompile Include="homework.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_13.cpp">
+      <Filter>사용자정의자료형+ 4대문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="main_13.cpp">
+      <Filter>사용자정의자료형+ 4대문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_15.cpp">
+      <Filter>lesson\09. 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="homework2.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="homework3.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="homework4.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="homework5.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="homework6.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="homework7.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="hw 2.cpp">
+      <Filter>homework</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_12.cpp">
+      <Filter>lesson\07. 문자열+ 삼항연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="Example_14.cpp">
+      <Filter>사용자정의자료형+ 4대문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="main_16.cpp">
+      <Filter>10. 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame_16.cpp">
+      <Filter>10. 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="player_17.cpp">
+      <Filter>11. 접근자,설정자</Filter>
+    </ClCompile>
+    <ClCompile Include="man17.cpp">
+      <Filter>11. 접근자,설정자</Filter>
+    </ClCompile>
+    <ClCompile Include="maingame_17.cpp">
+      <Filter>11. 접근자,설정자</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleCruise.cpp" />
+    <ClCompile Include="unit.cpp">
+      <Filter>11._1 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="Tank.cpp">
+      <Filter>11._1 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame_18.cpp">
+      <Filter>11._1 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="main_18.cpp">
+      <Filter>11._1 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame_20.cpp">
+      <Filter>13. STL 백터</Filter>
+    </ClCompile>
+    <ClCompile Include="main_20.cpp">
+      <Filter>13. STL 백터</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame_21.cpp">
+      <Filter>15.STL.map</Filter>
+    </ClCompile>
+    <ClCompile Include="main_21.cpp">
+      <Filter>15.STL.map</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame_22.cpp">
+      <Filter>16. 템플릿</Filter>
+    </ClCompile>
+    <ClCompile Include="main_22.cpp">
+      <Filter>16. 템플릿</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Example_10.h">
+      <Filter>lesson\06. 배열 +셔플 + 난수</Filter>
+    </ClInclude>
+    <ClInclude Include="homework.h">
+      <Filter>homework</Filter>
+    </ClInclude>
+    <ClInclude Include="Example_13.h">
+      <Filter>사용자정의자료형+ 4대문자열</Filter>
+    </ClInclude>
+    <ClInclude Include="Example_12.h">
+      <Filter>lesson\07. 문자열+ 삼항연산자</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame_16.h">
+      <Filter>10. 클래스</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>11. 접근자,설정자</Filter>
+    </ClInclude>
+    <ClInclude Include="player_17.h">
+      <Filter>11. 접근자,설정자</Filter>
+    </ClInclude>
+    <ClInclude Include="maingame_17.h">
+      <Filter>11. 접근자,설정자</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleCruise.h" />
+    <ClInclude Include="unit.h">
+      <Filter>11._1 상속</Filter>
+    </ClInclude>
+    <ClInclude Include="Tank.h">
+      <Filter>11._1 상속</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame_18.h">
+      <Filter>11._1 상속</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame_20.h">
+      <Filter>13. STL 백터</Filter>
+    </ClInclude>
+    <ClInclude Include="main_20.h" />
+    <ClInclude Include="MainGame_21.h">
+      <Filter>15.STL.map</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame_22.h">
+      <Filter>16. 템플릿</Filter>
+    </ClInclude>
+    <ClInclude Include="main_22.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="console_02.cpp.rc" />
+  </ItemGroup>
+</Project>
